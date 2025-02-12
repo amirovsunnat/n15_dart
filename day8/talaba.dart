@@ -11,5 +11,7 @@ void main(List<String> args) {
   //   print(talaba.ism!.isEmpty);
   // } else {
   //   print("Ismga qiymat kiriting");
+  
   // }
 }
+
